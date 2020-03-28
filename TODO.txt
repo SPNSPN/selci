@@ -1,3 +1,4 @@
+perl版ワンライナー
 compile to stack machine -> hardware impl
                          -> factor impl
 llvm selci
